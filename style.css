@@ -38,7 +38,9 @@ header {
   color: white;
   font-size: 3rem;
 }
-
+#men {
+  text-align: center;
+}
 #features ul {
   list-style: none;
   padding: 0;
@@ -48,6 +50,11 @@ header {
 #features li {
   margin-bottom: 10px;
   font-size: 1.2rem;
+  text-align: center;
+}
+
+#dest {
+  text-align: center;
 }
 
 #gallery {
