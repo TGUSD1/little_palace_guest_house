@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #4CAF50;
+  background-color: #0b680e;
   color: white;
   padding: 20px;
   text-align: center;
@@ -26,7 +26,7 @@ header {
 }
 
 #hero {
-  background-image: url('/img/photo25.jpg');
+  background-image: url('/img/photo26.jpg');
   background-size: cover;
   height: 400px;
   display: flex;
@@ -35,7 +35,7 @@ header {
 }
 
 #hero h2 {
-  color: white;
+  color: rgb(4, 80, 27);
   font-size: 3rem;
 }
 #men {
